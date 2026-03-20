@@ -1,3 +1,8 @@
+---
+name: analyzing-saas-contracts
+description: Analyzes SaaS vendor agreements against AmLaw 100 enterprise buyer standards, producing a structured risk assessment, market standard benchmark comparison, and exact redline language for every clause requiring negotiation. Reviews Master Service Agreements (MSAs), SaaS subscription agreements, Order Forms, and Data Processing Agreements (DPAs) across eight risk categories: data and privacy, security and compliance, intellectual property, liability and indemnification, service levels, termination and business continuity, pricing and auto-renewal, and dispute resolution. Outputs an attorney-quality deliverable ready for legal or procurement teams, including a Priority Negotiation Roadmap with tiered recommendations. Use when the user asks to review a contract, MSA, or SaaS agreement, or requests a redline, risk analysis, or negotiation guidance on any SaaS or technology vendor document.
+---
+
 # Skill: SaaS Vendor Agreement Reviewer
 
 ## Overview
