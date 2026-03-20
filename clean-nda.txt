@@ -1,0 +1,64 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is entered into on this 19th day of March, 2026, by and between OmniCorp Global Holdings LLC ("Disclosing Party") and Unfortunate Soul ("Receiving Party").
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+
+"Confidential Information" shall mean any non-public information disclosed by the Disclosing Party to the Receiving Party, whether orally, in writing, or by any other means, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure.
+
+Confidential Information shall not include information that: (a) is or becomes publicly available through no fault of the Receiving Party; (b) was known to the Receiving Party prior to disclosure, as evidenced by written records predating such disclosure; (c) is independently developed by the Receiving Party without use of or reference to the Disclosing Party's Confidential Information; or (d) is received from a third party without restriction and without breach of any obligation of confidentiality.
+
+2. OBLIGATIONS OF CONFIDENTIALITY
+
+The Receiving Party agrees to: (a) hold all Confidential Information in strict confidence using at least the same degree of care it uses to protect its own confidential information, but in no event less than reasonable care; (b) not disclose Confidential Information to any third party without the prior written consent of the Disclosing Party; and (c) use the Confidential Information solely for the purpose of evaluating a potential business relationship between the parties.
+
+3. COMPELLED DISCLOSURE
+
+If the Receiving Party is required by applicable law, regulation, or a valid order of a court or government authority to disclose any Confidential Information, the Receiving Party shall: (a) provide the Disclosing Party with prompt prior written notice of such requirement to the extent permitted by law; (b) cooperate with the Disclosing Party in seeking a protective order or other appropriate remedy; and (c) disclose only that portion of the Confidential Information that is legally required to be disclosed.
+
+4. TERM AND CONFIDENTIALITY PERIOD
+
+The obligations of confidentiality under this Agreement shall remain in effect for a period of five (5) years from the date of disclosure of the applicable Confidential Information. Notwithstanding the foregoing, obligations with respect to information that constitutes a trade secret under applicable law shall survive until such information no longer qualifies as a trade secret under applicable law.
+
+5. LIMITATION OF LIABILITY
+
+Each party's aggregate liability to the other for any breach of this Agreement shall not exceed Five Million Dollars ($5,000,000). The Disclosing Party must demonstrate actual damages in any action for breach of this Agreement. Nothing in this Section shall limit either party's liability for damages arising from gross negligence or willful misconduct.
+
+6. GOVERNING LAW AND JURISDICTION
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law principles. Each party hereby submits to the exclusive jurisdiction of the state and federal courts located in New York County, New York for resolution of any dispute arising under this Agreement, and waives any objection to the convenience of such forum.
+
+7. ATTORNEY'S FEES
+
+In any action to enforce this Agreement, the prevailing party shall be entitled to recover its reasonable and documented attorney's fees and costs from the non-prevailing party.
+
+8. GENERAL PROVISIONS
+
+(a) Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions.
+
+(b) Amendment. This Agreement may not be amended except by a written instrument signed by both parties.
+
+(c) Waiver. No waiver of any provision of this Agreement shall be effective unless made in writing and signed by the waiving party.
+
+(d) Severability. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+(e) Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original.
+
+---
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+OMNICORP GLOBAL HOLDINGS LLC
+
+Signature: ___________________________
+Name: Montgomery Burns
+Title: ________________________________
+Date: ________________________________
+
+
+UNFORTUNATE SOUL (Receiving Party)
+
+Signature: ___________________________
+Name: ________________________________
+Title: ________________________________
+Date: ________________________________
